@@ -1,2 +1,2 @@
-# FAT16-ZOS
+# PseudoFAT-ZOS
 Semestralni prace na ZOS
